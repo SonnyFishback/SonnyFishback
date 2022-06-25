@@ -23,5 +23,14 @@ padding: 0px;
 />
 
 <h2>
-Hello 👋🏽 Welcome to My GitHub! Want to see what I've been working on? -- Check out my pinned projects below 👇🏽
+Welcome to My GitHub! 👋🏽
 </h2>
+
+<!-- <p>
+<b>A little about me:</b>
+ Section coming soon.
+</p> -->
+
+<h3>
+Want to see what I've been working on? -- Check out my pinned projects below 👇🏽
+</h3>
