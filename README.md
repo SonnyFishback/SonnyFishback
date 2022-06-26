@@ -35,8 +35,8 @@ Welcome to My GitHub! 👋🏽
 Want to see what I've been working on?👨🏽‍💻 -- Check out my pinned projects below 👇🏽
 </h3>
 
-<span>
+<!-- <span>
 <i>
-BTW.. Most of my projects
+BTW.. M
 </i>
-</span>
+</span> -->
