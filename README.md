@@ -13,7 +13,7 @@ Full Stack Developer | DevOps Engineer
 
 <img
 alt="Profile banner image."
-src="assets/images/githubProfileBanner.png"
+src="assets/images/githubBanner2.png"
 style="
 border: solid navy 5px;
 border-radius: 5px;
@@ -32,5 +32,11 @@ Welcome to My GitHub! 👋🏽
 </p> -->
 
 <h3>
-Want to see what I've been working on? -- Check out my pinned projects below 👇🏽
+Want to see what I've been working on?👨🏽‍💻 -- Check out my pinned projects below 👇🏽
 </h3>
+
+<span>
+<i>
+BTW.. Most of my projects
+</i>
+</span>
