@@ -1,42 +1,16 @@
-<h1
-id="headerText"
-style="
-border: solid navy 5px;
-color: white;
-background-color: navy;
-border-radius: 5px;
-padding: 0px;
-"
->
-Full Stack Developer | DevOps Engineer
-</h1>
+# Welcome to my GitHub!
 
-<img
-alt="Profile banner image."
-src="assets/images/githubBanner2.png"
-style="
-border: solid navy 5px;
-border-radius: 5px;
-margin: 0px;
-padding: 0px;
-"
-/>
+## Hi, my name is Sonny.
 
-<h2>
-Welcome to My GitHub! 👋🏽
-</h2>
+I am a highly skilled and motiviated software professional with years of experience in designing, developing and maintaining robust software applications.
 
-<!-- <p>
-<b>A little about me:</b>
- Section coming soon.
-</p> -->
+My experience includes starting projects at start ups, contributing to large scale projects for fortune 50 companies, as well as contrubuting to existing code bases in the open source community.
 
-<h3>
-Want to see what I've been working on?👨🏽‍💻 -- Check out my pinned projects below 👇🏽
-</h3>
+I take pride in my track record of delivering high-quality software solutions as an employee and in my freelance work. I am also a quick learner and have experience with a range of technologies, including Python, JavaScript, Swift, Vue.js, React.js and Amazon Web Services.
 
-<!-- <span>
-<i>
-BTW.. M
-</i>
-</span> -->
+Some of the technologies I look forward to growing my skillset in are:
+ - Flutter
+ - Golang
+ - .NET
+ - React Native
+ - C#
