@@ -15,3 +15,5 @@ I take pride in my track record of delivering high-quality software solutions as
  - .NET
  - React Native
  - C#
+ - Rust
+ - WebStorm
