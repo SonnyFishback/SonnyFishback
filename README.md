@@ -2,7 +2,7 @@
 
 ## Hi, my name is Sonny.
 
-I am a highly skilled and motiviated software professional with years of experience in designing, developing and maintaining robust software applications.
+I am a highly skilled and motiviated software professional with seven years of experience in designing, developing and maintaining robust software applications.
 
 My experience includes starting projects at start ups, contributing to large scale projects for fortune 50 companies, as well as contrubuting to existing code bases in the open source community.
 
@@ -12,10 +12,9 @@ I take pride in my track record of delivering high-quality software solutions as
 
 ### Some of the technologies I look forward to growing my skillset in this year are:
 
- - Flutter
- - Golang
- - .NET
- - React Native
- - C#
- - Rust
- - WebStorm
+ - AWS CDK
+ - Supabase
+ - WebContainers
+ - Svelte 5
+ - Open Source AI/ML Models
+ - Google Cloud Platform
